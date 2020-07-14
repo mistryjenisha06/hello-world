@@ -1,0 +1,12 @@
+{
+    "name": "jmistry/hello-world",
+    "description": "Composer Test",
+    "authors": [
+        {
+            "name": "mistryjenisha06",
+            "email": "jmistry@xento.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
