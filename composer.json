@@ -7,6 +7,9 @@
             "email": "jmistry@xento.com"
         }
     ],
+    "autoload": {
+        "files": ["./index.php"],
+    },
     "minimum-stability": "dev",
     "require": {}
 }
